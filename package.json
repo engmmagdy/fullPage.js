@@ -30,7 +30,7 @@
     "README.md"
   ],
   "dependencies": {
-    "jquery": ">=1.6.0"
+    "jquery": ">=3.5.1"
   },
   "authors": [
     "Alvaro Trigo https://github.com/alvarotrigo"
